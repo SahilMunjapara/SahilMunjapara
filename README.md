@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email-sahilmunjapara33@gmail.com
+- 📫 How to reach me sahilmunjapara33@gmail.com
 
 <!---
 SahilMunjapara/SahilMunjapara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
