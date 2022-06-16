@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SahilMunjapara
-- 👀 I’m interested in ...
+- 👀 I’m interested in developing app for cross platfrorms.
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sahilmunjapara33@gmail.com
